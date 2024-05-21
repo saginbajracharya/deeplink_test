@@ -34,8 +34,7 @@
                 <!-- https://test.dlofistudio.com/.well-known/assetlinks.json -->
                 <data
                     android:scheme="https"
-                    android:host="test.dlofistudio.com" 
-                    android:pathPrefix="/promos/"
+                    android:host="portfolio-6b6fb.firebaseapp.com" 
                 />
             </intent-filter>
         </activity>
