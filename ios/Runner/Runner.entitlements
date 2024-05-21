@@ -4,7 +4,7 @@
 <dict>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
-		<string>applinks:dlofistudio.com</string>
+		<string>applinks:test.dlofistudio.com</string>
 	</array>
 </dict>
 </plist>
